@@ -1,6 +1,6 @@
 # abstract-data-structures
 
-Understand the structure, nature and use of fundamental datastructures including, arrays, linked lists, stacks, and queues.
+Understand the structure, nature and use of fundamental data structures including, arrays, linked lists, stacks, and queues.
 
 The following tasks were completed:
 
